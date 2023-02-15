@@ -1,1 +1,1 @@
-local variable
+create-locat-variable
