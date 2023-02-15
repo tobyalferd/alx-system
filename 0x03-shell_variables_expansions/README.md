@@ -1,1 +1,1 @@
-create-locat-variable
+7-global-variable
